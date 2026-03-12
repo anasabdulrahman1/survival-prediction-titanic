@@ -1,5 +1,5 @@
-# titanic-survival-prediction
-titanic survival prediction using machine learning (tool- Sklearn)
+# survival-prediction-titanic
+survival-prediction-titanic using machine learning (tool- Sklearn)
 
 
 🚢 Titanic Machine Learning Project – Summary
